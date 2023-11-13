@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cescalberola&label=Profile%20views&color=0e75b6&style=flat" alt="cescalberola" /> </p>
 
-- 🌱 I’m currently learning **MERN, Javascript, TypeScript, PHP**
+- 🌱 Fullstack MERN | Javascript | React | NodeJS | Express | MySQL | MongoDB**
 
 - 📫 How to reach me: **f.alberola@gmail.com**
 
