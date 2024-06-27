@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cescalberola&label=Profile%20views&color=0e75b6&style=flat" alt="cescalberola" /> </p>
 
-- 🌱 Fullstack MERN | MongoDB | Express | React | NodeJS **
-- 🌱 Angular | Vue | MySQL
+<!-- 🌱 Fullstack MERN | MongoDB | Express | React | NodeJS **
+- 🌱 Angular | MySQL
 
-- 📫 How to reach me: **f.alberola@gmail.com**
+- 📫 How to reach me: **f.alberola@gmail.com**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
